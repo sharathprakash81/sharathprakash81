@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/sharathprakash81/sharathprakash81/blob/main/AI_Banner.JPG)]
+![MasterHead](https://github.com/sharathprakash81/sharathprakash81/blob/main/AI_Banner.JPG)
 <h1 align="center">Hi 👋, I'm Sharath Prakash</h1>
 <h3 align="left">A passionate and an ardent Learner of Data Science.</h3>
 <h3 align="left">Automotive Professional with Product Development and Engineering Domain Experience.</h3>
