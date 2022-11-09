@@ -1,8 +1,13 @@
 Hi there 👋
+
 Thanks for visiting my github.
+
 I'm currently on Learning Mode towards Artificial Intellegence and very soon swicthing into Implementation mode.
 
+
 Arise, AWAKE, Stop Not Until the Goal is Reached.
+
+
 <!--
 **sharathprakash81/sharathprakash81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
