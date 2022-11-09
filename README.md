@@ -7,13 +7,13 @@
 
 - Focussing on **Machine Learning Model Buidling.**
 
-- 🌱 I’m currently learning **Full Stack Data Science.**
+- Learning Mode: ON for **Full Stack Data Science.**
 
-- 💬 Ask me about **Python, ML**
+- **Python, ML**
 
-- 📫 How to reach me **sharathprakash81@gmail.com**
+- Reach me at **sharathprakash81@gmail.com**
 
-- ⚡ Fun fact **Arise Awake Stop Not Until The Goal is Reached**
+- **Arise Awake Stop Not Until The Goal is Reached**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
