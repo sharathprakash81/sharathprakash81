@@ -2,7 +2,7 @@ Hi there 👋
 
 Thanks for visiting my github.
 
-I'm currently on Learning Mode towards Artificial Intellegence and very soon swicthing into Implementation mode.
+I'm currently on Learning Mode towards Artificial Intelligence and very soon swicthing into Implementation mode.
 
 
 Arise, AWAKE, Stop Not Until the Goal is Reached.
