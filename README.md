@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sharath Prakash</h1>
 <h3 align="left">A passionate and an ardent Learner of Data Science.</h3>
 <h3 align="left">Automotive Professional with Product Development and Engineering Domain Experience.</h3>
