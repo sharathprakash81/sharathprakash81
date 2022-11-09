@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathprakash81&label=Profile%20views&color=0e75b6&style=flat" alt="sharathprakash81" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Model Buidling.**
+- Focussing on **Machine Learning Model Buidling.**
 
 - 🌱 I’m currently learning **Full Stack Data Science.**
 
