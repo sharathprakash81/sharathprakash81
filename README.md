@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharath Prakash</h1>
 <h3 align="center">A passionate and an ardent Learner of Data Science. Automotive Professional with Product Development and Engineering Domain Experience.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/sharathprakash81/sharathprakash81/blob/20fd6092e93cbe9ce3463f69defa286da70a1353/Final_github.gif">
+<img align="right" alt="Coding" width="800" src="https://github.com/sharathprakash81/sharathprakash81/blob/20fd6092e93cbe9ce3463f69defa286da70a1353/Final_github.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathprakash81&label=Profile%20views&color=0e75b6&style=flat" alt="sharathprakash81" /> </p>
 
